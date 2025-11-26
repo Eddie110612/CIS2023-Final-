@@ -1,5 +1,4 @@
-#!/bin/bash
+#! /bin/bash
+seq 50
+#Print 1 to 50 and  stop 
 
-for i in {1..50}; do
-echo "$i"
-done
